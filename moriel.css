@@ -3116,7 +3116,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .face-picture.in-about {
-  background-image: url("https://cdn.prod.website-files.com/63377a4edcea6933891249a2/663e688b98b6689b63074621_%D7%9E%D7%95%D7%A8%D7%99%D7%90%D7%9C%20%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA%20%D7%90%D7%95%D7%93%D7%95%D7%AA.JPG");
+  background-image: url("moriel-about.JPG");
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -3658,7 +3658,7 @@ textarea.w-input, textarea.w-select {
   }
 
   .face-picture {
-    background-image: url("https://cdn.prod.website-files.com/63377a4edcea6933891249a2/663bfbb346bcd436c6f1ee5d_%D7%93%D7%99%D7%9F%20%D7%9E%D7%95%D7%A8%D7%99%D7%90%D7%9C%20%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA%20din%20moriel%20english.JPG");
+    background-image: url("din-moriel-english.JPG");
     background-position: 50%;
     background-size: cover;
     border: 5px solid #fff;
